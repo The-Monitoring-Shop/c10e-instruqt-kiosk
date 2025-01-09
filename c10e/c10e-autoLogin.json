@@ -1,0 +1,6 @@
+{
+  "c10e-autoLogin@chronosphere.io": {
+    "installation_mode": "force_installed",
+    "install_url": "file:///c10e/c10e-autoLogin@chronosphere.io.xpi"
+  }
+}
